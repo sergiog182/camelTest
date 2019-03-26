@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<order provider="INTERENTREGAS" test="false">
+	<id>1</id>
+	<name>Sergio Gutierrez</name>
+	<country>CO</country>
+	<total>458712</total>
+	<accepted></accepted>
+	<itemsQuantity></itemsQuantity>
+	<items>
+		<item>
+			<itemName>Xbox 360</itemName>
+			<quantity>1</quantity>
+			<value>458000</value>
+		</item>
+	</items>
+	<comments></comments>
+</order>

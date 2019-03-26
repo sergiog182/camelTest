@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<order provider="SERVIENTREGA" test="false">
+	<id>2</id>
+	<name>Andres Rivera</name>
+	<country>CO</country>
+	<total>485000</total>
+	<accepted></accepted>
+	<itemsQuantity></itemsQuantity>
+	<items>
+		<item>
+			<itemName>Mando Xbox 360</itemName>
+			<quantity>1</quantity>
+			<value>90000</value>
+		</item>
+		<item>
+			<itemName>Nintendo 3DS</itemName>
+			<quantity>1</quantity>
+			<value>395000</value>
+		</item>
+	</items>
+	<comments></comments>
+</order>

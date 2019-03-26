@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<order provider="COORDINADORA" test="false">
+	<id>12</id>
+	<name>Diego Gutierrez</name>
+	<country>CO</country>
+	<total>820000</total>
+	<accepted></accepted>
+	<itemsQuantity></itemsQuantity>
+	<items>
+		<item>
+			<itemName>Nintendo Switch</itemName>
+			<quantity>1</quantity>
+			<value>820000</value>
+		</item>
+	</items>
+	<comments></comments>
+</order>

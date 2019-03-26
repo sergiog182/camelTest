@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<order provider="SERVIENTREGA" test="false">
+	<id>182</id>
+	<name>Andrea Sanchez</name>
+	<country>US</country>
+	<total>1800</total>
+	<accepted></accepted>
+	<itemsQuantity></itemsQuantity>
+	<items>
+		<item>
+			<itemName>Mando Xbox 360</itemName>
+			<quantity>2</quantity>
+			<value>180000</value>
+		</item>
+	</items>
+	<comments></comments>
+</order>

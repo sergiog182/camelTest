@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<order provider="DHL" test="false">
+	<id>1</id>
+	<name>Sergio Gutierrez</name>
+	<country>CO</country>
+	<total>1820000</total>
+	<accepted></accepted>
+	<itemsQuantity></itemsQuantity>
+	<items>
+		<item>
+			<itemName>Xbox 360</itemName>
+			<quantity>2</quantity>
+			<value>1250000</value>
+		</item>
+		<item>
+			<itemName>Play station 4</itemName>
+			<quantity>1</quantity>
+			<value>570000</value>
+		</item>
+	</items>
+	<comments></comments>
+</order>

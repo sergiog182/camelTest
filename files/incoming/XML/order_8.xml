@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<order provider="COORDINADORA" test="true">
+	<id>1</id>
+	<name>Jenny Barbosa</name>
+	<country>CO</country>
+	<total>4500000</total>
+	<accepted></accepted>
+	<itemsQuantity></itemsQuantity>
+	<items>
+		<item>
+			<itemName>Xbox 360</itemName>
+			<quantity>1</quantity>
+			<value>450000</value>
+		</item>
+		<item>
+			<itemName>Nintendo 3DS</itemName>
+			<quantity>1</quantity>
+			<value>250000</value>
+		</item>
+		<item>
+			<itemName>Combo tv 60 + PlayStation 4 pro</itemName>
+			<quantity>1</quantity>
+			<value>3800000</value>
+		</item>
+	</items>
+	<comments></comments>
+</order>

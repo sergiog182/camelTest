@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<order provider="DHL" test="true">
+	<id>3</id>
+	<name>Gloria Sanchez</name>
+	<country>UK</country>
+	<total>1758</total>
+	<accepted></accepted>
+	<itemsQuantity></itemsQuantity>
+	<items>
+		<item>
+			<itemName>Mando Xbox 360</itemName>
+			<quantity>1</quantity>
+			<value>1000</value>
+		</item>
+		<item>
+			<itemName>Nintendo 3DS</itemName>
+			<quantity>1</quantity>
+			<value>758</value>
+		</item>
+	</items>
+	<comments></comments>
+</order>

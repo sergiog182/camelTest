@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<order provider="DHL" test="true">
+	<id>201</id>
+	<name>Jack Nelson</name>
+	<country>UK</country>
+	<total>8000</total>
+	<accepted></accepted>
+	<itemsQuantity></itemsQuantity>
+	<items>
+		<item>
+			<itemName>Mando PlayStation</itemName>
+			<quantity>2</quantity>
+			<value>190000</value>
+		</item>
+	</items>
+	<comments></comments>
+</order>
