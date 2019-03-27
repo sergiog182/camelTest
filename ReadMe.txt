@@ -1,7 +1,7 @@
 Proyecto manejo de test con Junit
 =================================
 
-La ruca mueve los archivos que se encuentran en la carpeta files/incoming, a la carpeta files/outgoing.
+La ruta mueve los archivos que se encuentran en la carpeta files/incoming, a la carpeta files/outgoing.
 
 Para correr el proyecto, desde consola ejecutar:
 
